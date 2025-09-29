@@ -10,7 +10,7 @@ text-align: center;
   display: inline-block;
 }
 .card{background-color:antiquewhite}
-.card-1 h2 {
+.card-1 h2{
   color:teal;
   margin-left: 45px;
 border-style: solid;
@@ -20,8 +20,7 @@ padding: 4px;
 border-radius: 10px;
 text-align: center;
   display: inline-block;
-  
 }
 /* Style for card 1 (your box model example */
   
-{}
+.card-2 h1{}
