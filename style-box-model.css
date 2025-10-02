@@ -36,5 +36,10 @@ div.card-back h1{
 border: width 3px;
 padding: 5px;
 }
-.card-2
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:antiquewhite;
 
+}
