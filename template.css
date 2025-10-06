@@ -53,9 +53,7 @@
   box-sizing: border-box;
 }
 
-.card-front {
-  border: 2px solid #e0e0e0;
-}
+
 
 .card-back {
   transform: rotateY(180deg);

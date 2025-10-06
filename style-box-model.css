@@ -38,21 +38,11 @@ main{
   border-radius: 15px;
   margin: auto;
 }
-.name{
-  text-transform:uppercase;
-  justify-content:center;
-  align-items:center;
-  font-size: 20px;
-  padding-right: 20px;
-  border-right:1px solid black;
+.vertical-line{
+  border-left: 3px solid black;
+  height: 1.8in;
+  position: absolute;
+  left: 50%;
+  top: 20%;
 }
-.details{
-  font-size: 20px;
-  text-transform: uppercase;
-  margin-top:8px
-}
-.vertical-line {
-  border-left: 2px solid black;
-  height: 50px;                
-  margin: 0 8px;                
-}
+
