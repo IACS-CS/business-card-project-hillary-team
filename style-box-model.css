@@ -38,11 +38,4 @@ main{
   border-radius: 15px;
   margin: auto;
 }
-.vertical-line{
-  border-left: 3px solid black;
-  height: 1.8in;
-  position: absolute;
-  left: 50%;
-  top: 20%;
-}
 
